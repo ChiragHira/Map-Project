@@ -1,0 +1,5 @@
+{
+  "name": "Cartographer AI - Graph-Based Map Builder",
+  "description": "An advanced graph-based map design tool using React-Konva and Gemini AI to generate, visualize, and edit custom map networks with pathfinding capabilities.",
+  "requestFramePermissions": []
+}
